@@ -53,14 +53,36 @@ Advanced Queries
 15. Identify the top 3 customers who spent the most money in each year.
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Topics Covered
+✔ Revenue Analysis \
+✔ Customer Behavior Analysis \
+✔ Sales Trend Analysis \
+✔ Repeat Purchase & Cohort Insights \
+✔ Relationship Analysis (Correlation) \
+✔ Ranking & Aggregation \
+✔ Window Functions \
+✔ Category-based Performance 
+------------------------------------------------------------------------
+## Technologies Used
+🔹 Database: PostgreSQL 16+ \
+🔹 Language: Python 3.10+ \
+🔹 Libraries: 
+pandas,
+numpy,
+matplotlib / seaborn 
 
--   15 analytical SQL problems solved using PostgreSQL.
--   Equivalent solutions using Python (Pandas).
--   Clean, readable SQL queries.
--   Business insights from e-commerce operations.
--   Organized question-wise folder structure.
+------------------------------------------------------------------------
+##  Setup Instructions
 
+| Step | Description | Command / Action |
+|------|-------------|------------------|
+| **1. Clone the Repository** | Download the project from GitHub and move into the directory. | ```bash\ngit clone https://github.com/yourusername/15_ecommerce_question_solve_using_python_posgreSQP\ncd 15_ecommerce_question_solve_using_python_posgreSQP\n``` |
+| **2. Import the Dataset into PostgreSQL** | Load all CSV tables into your PostgreSQL database. | Use **pgAdmin** or **psql** to upload the CSV files. |
+| **3. Run SQL Queries** | Execute SQL scripts to generate insights. | Open `.sql` files and run them in PostgreSQL. |
+| **4. Run Python Scripts** | Use Jupyter Notebook to execute Python solutions. | ```bash\njupyter notebook\n```\nOpen and run any `question_x.ipynb` file. |
+
+
+Run any question_x.ipynb file.
 ------------------------------------------------------------------------
 
 ## 📈 Skills Demonstrated
@@ -68,6 +90,7 @@ Advanced Queries
 -   SQL Query Optimization\
 -   Window Functions & Aggregations\
 -   Python Data Analysis (Pandas)\
+-   DAta Visualizations (matplotlib, seaborn) \
 -   E-commerce Business Analytics\
 -   Data Cleaning & Transformation
 
@@ -86,5 +109,6 @@ Advanced Queries
 
 If you found this project helpful, consider giving it a **⭐ star on
 GitHub**!
+
 
 
