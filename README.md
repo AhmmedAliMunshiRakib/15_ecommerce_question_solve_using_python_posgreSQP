@@ -72,18 +72,6 @@ numpy,
 matplotlib / seaborn 
 
 ------------------------------------------------------------------------
-##  Setup Instructions
-
-| Step | Description | Command / Action |
-|------|-------------|------------------|
-| **1. Clone the Repository** | Download the project from GitHub and move into the directory. | ```bash\ngit clone https://github.com/yourusername/15_ecommerce_question_solve_using_python_posgreSQP\ncd 15_ecommerce_question_solve_using_python_posgreSQP\n``` |
-| **2. Import the Dataset into PostgreSQL** | Load all CSV tables into your PostgreSQL database. | Use **pgAdmin** or **psql** to upload the CSV files. |
-| **3. Run SQL Queries** | Execute SQL scripts to generate insights. | Open `.sql` files and run them in PostgreSQL. |
-| **4. Run Python Scripts** | Use Jupyter Notebook to execute Python solutions. | ```bash\njupyter notebook\n```\nOpen and run any `question_x.ipynb` file. |
-
-
-Run any question_x.ipynb file.
-------------------------------------------------------------------------
 
 ## 📈 Skills Demonstrated
 
@@ -109,6 +97,7 @@ Run any question_x.ipynb file.
 
 If you found this project helpful, consider giving it a **⭐ star on
 GitHub**!
+
 
 
 
